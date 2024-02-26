@@ -17,6 +17,11 @@ HTML, CSS, JavaScript
 ## 메인화면
 ![이미지](https://github.com/BlueDestinyUnit/BlueDestinyUnit/blob/main/sudoku/sudoku1.png)
 
+## 진행화면
+![이미지](https://github.com/BlueDestinyUnit/BlueDestinyUnit/blob/main/sudoku/sudoku2.jpg)
+
+## 완료
+![이미지](https://github.com/BlueDestinyUnit/BlueDestinyUnit/blob/main/sudoku/sudoku3.jpg)
 
 ### 개발 트라이
 
